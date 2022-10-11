@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: org.tensorflow:tensorflow-lite-gpu:2.9.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3c2a5bdcf8fb452f612a544e7760534c/transformed/jetified-tensorflow-lite-gpu-2.9.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c2a5bdcf8fb452f612a544e7760534c/transformed/jetified-tensorflow-lite-gpu-2.9.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3c2a5bdcf8fb452f612a544e7760534c/transformed/jetified-tensorflow-lite-gpu-2.9.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d9ee45c5c8aa148de54bb27aeb22266a/transformed/jetified-tensorflow-lite-gpu-2.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d9ee45c5c8aa148de54bb27aeb22266a/transformed/jetified-tensorflow-lite-gpu-2.9.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d9ee45c5c8aa148de54bb27aeb22266a/transformed/jetified-tensorflow-lite-gpu-2.9.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
